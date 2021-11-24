@@ -1,5 +1,6 @@
 # waterpota
-This project is about clearing the data and finding the right classifier for finding water potability. 
+This project is about clearing the data and finding the right classifier for finding water potability as a kaggle challenge.
+The data is in the file water_potability.csv
 
 The procedure to clear the data
 
